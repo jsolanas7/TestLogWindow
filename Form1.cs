@@ -16,5 +16,13 @@ namespace TestLogWindow
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            for(int i = 0; i< 1000; i++)
+            {
+                richTextBox1.Text += $"{DateTime.Now} -Some log event \n";
+            }
+        }
     }
 }

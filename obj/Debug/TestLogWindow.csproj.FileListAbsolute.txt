@@ -1,0 +1,9 @@
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\bin\Debug\TestLogWindow.exe.config
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\bin\Debug\TestLogWindow.exe
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\bin\Debug\TestLogWindow.pdb
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\obj\Debug\TestLogWindow.csprojAssemblyReference.cache
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\obj\Debug\TestLogWindow.Form1.resources
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\obj\Debug\TestLogWindow.Properties.Resources.resources
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\obj\Debug\TestLogWindow.csproj.GenerateResource.cache
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\obj\Debug\TestLogWindow.exe
+C:\Users\jsolanas\source\repos\TestLogWindow\TestLogWindow\obj\Debug\TestLogWindow.pdb
